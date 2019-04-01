@@ -10,6 +10,15 @@
 1. 包含常见的几种排序算法
 
 
+# Chapter 9
+1. topN：
+    - 分治法 + 小顶堆
+    - 字典 + 小顶堆
+
+2. 排序：
+    - 分治法 + 归并
+
+
 
 # learn_4 pythonFromGitHub
 
